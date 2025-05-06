@@ -40,11 +40,11 @@ def nested_dict_update(base_dict, update_dict, create_missing=False):
 # Ask Copilot: "Explain this class and its methods"
 class User:
     def __init__(self, user_id, name, email, status, level):
-        self.user_id = user_id
-        self.name = name
-        self.email = email
-        self.status = status
-        self.level = level
+        elf.user_id = user_id
+       elf.name = name
+        elf.email = email
+        elf.status = status
+        elf.level = level
 
     def is_active(self):
         return self.status == "active"
