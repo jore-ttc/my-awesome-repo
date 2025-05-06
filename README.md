@@ -9,7 +9,7 @@ This repository demonstrates 5 key features of GitHub Copilot:
 
 2. **Chat** (`f2/chat.py`)
    - Documenting code
-   - Restructe messy code
+   - Restructure messy code
    - Optimizing code
 
 3. **Fix & Explain** (`f3`)
