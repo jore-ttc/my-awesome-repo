@@ -23,9 +23,8 @@ This repository demonstrates 5 key features of GitHub Copilot:
    - Verify changes
 
 5. **Agents** (`f5`)
-   - FastAPI REST endpoints
-   - Request handling
-   - JSON response formatting
+   - Uploading files for context
+   - Runnings through the code base
 
 ## Setup
 
